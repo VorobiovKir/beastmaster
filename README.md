@@ -1,5 +1,6 @@
 # beastmaster
 
-requirements:
-1. sublime text 3 or (another text editor)
-2. git (add, commit, clone, push, pull, fetch)
+### Requirements
+
+ - Text editor (sublime text 3, atom or another)
+ - git (add, commit, clone, push, pull, fetch)
